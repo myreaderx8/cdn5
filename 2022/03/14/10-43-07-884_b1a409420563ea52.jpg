@@ -1,0 +1,1005 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' lang='en' xml:lang='en'>
+<head>
+	<title> Pavel Kosenko. Portfolio</title>
+	
+	<meta name='Keywords' content='' />
+	<meta name='Description' content=' Pavel Kosenko. Portfolio. Pavel Kosenko / Без названия. ' />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name='viewport' content='width=1204' />
+	<meta name = 'format-detection' content = 'telephone=no'>
+	
+	
+		<meta property='og:type' content='article'>
+		<meta property='og:title' content=' Pavel Kosenko. Portfolio. Pavel Kosenko / Без названия'>
+		<meta property='og:description' content=' Pavel Kosenko. Portfolio. Pavel Kosenko / Без названия. '>
+		<meta property='og:url' content='https://pavelkosenko.photographer.ru?play=1970&pic=53325'>
+		<meta property='og:image' content='https://pavelkosenko.photographer.ru/static/upload/portfolio/pics/pictures/53/53325.jpg' />
+		<meta property='og:image:width' content='1100' />
+		<meta property='og:image:height' content='1100' />
+		
+		<meta property='og:title' content=' Pavel Kosenko. Portfolio'>
+		<meta property='og:description' content=' Pavel Kosenko. Portfolio. Pavel Kosenko / Без названия. '>
+		
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-15680609-1'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-15680609-1');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type='text/javascript' >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter47137638 = new Ya.Metrika({
+                    id:47137638,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName('script')[0],
+            s = d.createElement('script'),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'https://mc.yandex.ru/metrika/watch.js';
+
+        if (w.opera == '[object Opera]') {
+            d.addEventListener('DOMContentLoaded', f, false);
+        } else { f(); }
+    })(document, window, 'yandex_metrika_callbacks');
+</script>
+<noscript><div><img src='https://mc.yandex.ru/watch/47137638' style='position:absolute; left:-9999px;' alt='' /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<link REL=STYLESHEET TYPE=text/css href='/static/design/css/reset.css' />
+<link REL=STYLESHEET TYPE=text/css href='/static/design/css/portfolio/common.css?rnd=150' />
+<link REL=STYLESHEET TYPE=text/css href='/static/design/css/portfolio/computer.css?rnd=150' />
+
+
+
+<style>
+		.picinfo, 
+		.slidetabs > div > .caption, 
+		.pswp-gallery .caption .title,
+		.pswp-gallery .caption .desc,
+		.itemCaptionOpener,
+		.item .itemCaption,
+		.slidetabsNavigation .nav.info{
+			display:none;
+		} 
+		.pswp-gallery .caption{
+		    padding: 5px !important;
+		    min-height: auto !important;
+		}
+	</style><style>
+	header div.title, header div.title a, header div.title span, 
+	.menu div.title, .menu div.title a,
+	h1.header a.home{
+		color: #222222;
+	}
+	.instaWidget .title .controls .browse svg path{
+		fill:#000000;
+	}
+	body{
+		background-color: #FFFFFF;
+		color: #000000;
+	}
+	a{
+		color: #000000;
+	}
+	#footer,
+	#footer a,
+	.arrnav,
+	.instaWidget .title a,
+	.instaWidget .title span,
+	.content .blog .header a,
+	.content .blog .entryContent .prevnext a,
+	.content .blog .waterfall-container .item a,
+	.content .blog .waterfall-container .item a .title
+	{
+		color: #000000;
+	
+	}
+	body.computer #footer{
+		background-color: #FFFFFF;
+	}
+
+	.series_caption hr{
+		border: none;
+		margin: 44px auto 44px auto;
+		width: 30%;
+		border-top: 1px solid #FFFFFF;
+		opacity: 0.7;
+	}
+	.series_caption blockquote,
+	.series_caption blockquote p{
+		font-size: 0px;
+		line-height: 0px;;
+	}
+
+	.content .blog div.tagsCloud,
+	.content .blog div.archive{
+		background-color: #FFFFFF;
+		color: #000000;
+	}
+	.blog div.tagsCloud .closeTagsCloud::before,
+	.blog div.tagsCloud .closeTagsCloud::after,
+	.blog div.archive .closeArchive::before,
+	.blog div.archive .closeArchive::after{
+		background-color: #000000;
+	}
+	.content .blog .header a.selectedMonth{
+		background-color: #000000;
+		color: #FFFFFF;
+	}
+	a:hover{
+		opacity:1;
+		color: #000000;
+	}
+	#ya_share {
+		background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40' fill='none'><path fill-rule='evenodd' clip-rule='evenodd' d='M21 14C21 14.368 21.0662 14.7206 21.1875 15.0464L16.179 17.938C15.6321 17.3603 14.8582 17 14 17C12.3433 17 11 18.3431 11 20C11 21.6569 12.3433 23 14 23C14.7219 23 15.3843 22.745 15.9019 22.3201L21.0798 25.3095C21.0276 25.5312 21 25.7624 21 26C21 27.6569 22.3433 29 24 29C25.6567 29 27 27.6569 27 26C27 24.3431 25.6567 23 24 23C23.3088 23 22.6721 23.2338 22.1648 23.6266L16.9382 20.6089C16.9788 20.4123 17 20.2086 17 20C17 19.9254 16.9973 19.8514 16.9919 19.7782L22.4995 16.5984C22.9409 16.8538 23.4534 17 24 17C25.6567 17 27 15.6569 27 14C27 12.3431 25.6567 11 24 11C22.3433 11 21 12.3431 21 14Z' fill='%23000000' /></svg>");
+	}
+	.switch_language a{
+		color: #000000;
+	}
+
+
+	.page .description .inlinePic .caption, 
+	.blog .description .inlinePic .caption 	
+	{
+		color: #000000;
+		opacity: 0.8;
+	}	
+	.social a{
+		background-size: 14px 24px;
+		background-position: 0 center;
+		width: 14px;
+		height: 24px;
+	}
+	body.phone .instaWidget .title a b,
+	.social a.in{
+		background-image: url("data:image/svg+xml;utf8,<svg width='14' height='24' viewBox='0 0 14 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M11.2943 5H2.70567C1.21413 5 0 6.21331 0 7.70567V16.2943C0 17.7867 1.21413 19 2.70567 19H11.2943C12.7859 19 14 17.7867 14 16.2943V7.70567C14 6.21331 12.7859 5 11.2943 5ZM12.0703 6.61418L12.3798 6.61254V8.98565L10.0141 8.99306L10.0059 6.61994L12.0703 6.61418ZM5.00203 10.5628C5.44982 9.94215 6.17748 9.53551 6.9998 9.53551C7.82212 9.53551 8.54977 9.94215 8.99756 10.5628C9.28978 10.9678 9.46428 11.4633 9.46428 12C9.46428 13.3582 8.3588 14.4637 6.9998 14.4637C5.64161 14.4637 4.53613 13.3582 4.53613 12C4.53613 11.4633 4.71064 10.9678 5.00203 10.5628ZM12.6364 16.2943C12.6364 17.0343 12.0346 17.6361 11.2946 17.6361H2.70598C1.96597 17.6361 1.36426 17.0343 1.36426 16.2943V10.5628H3.45504C3.27395 11.0073 3.1727 11.4921 3.1727 12C3.1727 14.1105 4.88977 15.8284 7.00031 15.8284C9.11167 15.8284 10.8287 14.1105 10.8287 12C10.8287 11.4921 10.7259 11.0073 10.5464 10.5628H12.6364V16.2943Z' fill='%23000000'/></svg>");
+		background-size: 14px 24px;
+		width: 14px;
+	}
+	.social a.fb{
+		background-image: url("data:image/svg+xml;utf8,<svg width='7' height='24' viewBox='0 0 7 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M4.65481 19H1.55097V11.9991H0V9.58685H1.55097V8.1386C1.55097 6.17079 2.42627 5 4.91465 5H6.98578V7.41315H5.69132C4.72262 7.41315 4.65861 7.75025 4.65861 8.37939L4.65434 9.58685H7L6.72546 11.9991H4.65434V19H4.65481Z' fill='%23000000'/></svg>");
+		background-size: 7px 24px;
+		width: 7px;
+	}
+	.social a.tg{
+		background-image: url("data:image/svg+xml,%3Csvg width='14' height='24' viewBox='0 0 14 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.637447 11.7349C4.48921 10.1827 7.05766 9.15941 8.34279 8.66501C12.0121 7.2534 12.7745 7.00818 13.2715 7.00009C13.3808 6.99831 13.6252 7.02336 13.7835 7.14217C13.9172 7.24249 13.9539 7.37801 13.9715 7.47312C13.9891 7.56824 14.011 7.78491 13.9936 7.95421C13.7948 9.88661 12.9344 14.576 12.4967 16.7403C12.3115 17.6561 11.9441 17.8521 11.5911 17.8822C10.8238 17.9475 10.2438 17.5242 9.50064 17.0737C8.33776 16.3686 7.63444 16.0432 6.50565 15.3552C5.20115 14.5601 6.34903 14.1883 7.09246 13.4741C7.28703 13.2872 10.6112 10.2986 10.5969 10.2087C10.5917 10.176 10.493 9.85377 10.4158 9.79026C10.3385 9.72675 10.2245 9.74847 10.1422 9.76574C10.0256 9.79022 8.16786 10.9259 4.56904 13.1729C4.04173 13.5078 3.56411 13.671 3.13618 13.6624C2.66442 13.653 1.75694 13.4157 1.08232 13.2129C0.254878 12.9641 -0.0505608 12.8469 0.00670459 12.4244C0.036532 12.2043 0.246779 11.9745 0.637447 11.7349Z' fill='%23000000'/%3E%3C/svg%3E");
+		background-size: 14px 24px;
+		width: 14px;
+	}
+
+	.social a.vk{
+		background-image: url("data:image/svg+xml;utf8,<svg width='16' height='24' viewBox='0 0 16 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M8.78466 16.9582C8.78466 16.9582 9.07343 16.923 9.22133 16.749C9.35672 16.5896 9.35202 16.2886 9.35202 16.2886C9.35202 16.2886 9.33402 14.8835 9.92955 14.676C10.5165 14.472 11.2701 16.0349 12.0699 16.6358C12.674 17.0902 13.1326 16.9908 13.1326 16.9908L15.2697 16.9582C15.2697 16.9582 16.3872 16.8828 15.8574 15.92C15.8136 15.8411 15.5483 15.2076 14.2688 13.9061C12.9283 12.5439 13.1083 12.7642 14.722 10.4074C15.7048 8.97227 16.0977 8.09609 15.9748 7.72144C15.8582 7.36308 15.1351 7.45824 15.1351 7.45824L12.7296 7.47453C12.7296 7.47453 12.5511 7.44795 12.4189 7.53454C12.2898 7.61942 12.206 7.81746 12.206 7.81746C12.206 7.81746 11.8257 8.92769 11.3178 9.87245C10.2465 11.8649 9.81843 11.9703 9.64313 11.8469C9.23542 11.5579 9.33715 10.6878 9.33715 10.0696C9.33715 8.13809 9.60479 7.33307 8.81675 7.12474C8.55537 7.0553 8.36286 7.00986 7.69377 7.00215C6.83531 6.99271 6.10909 7.00557 5.69746 7.22591C5.42357 7.37251 5.21228 7.7 5.3414 7.71886C5.50026 7.74201 5.86024 7.82517 6.05118 8.1098C6.29769 8.47759 6.28908 9.30233 6.28908 9.30233C6.28908 9.30233 6.43072 11.5759 5.95806 11.858C5.63408 12.0518 5.18958 11.6565 4.23407 9.84845C3.74497 8.92254 3.37561 7.8989 3.37561 7.8989C3.37561 7.8989 3.30439 7.70772 3.17683 7.60484C3.02267 7.48053 2.80747 7.44195 2.80747 7.44195L0.521607 7.45824C0.521607 7.45824 0.178063 7.46853 0.0520703 7.63227C-0.0598359 7.77716 0.0434621 8.07808 0.0434621 8.07808C0.0434621 8.07808 1.83318 12.6656 3.86001 14.9778C5.71859 17.0971 7.82837 16.9582 7.82837 16.9582H8.78466Z' fill='%23000000'/></svg>");
+		background-size: 16px 24px;
+		width: 16px;
+	}
+	.social a.yt{
+		background-image: url("data:image/svg+xml;utf8,<svg width='14' height='24' viewBox='0 0 14 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M14 14.5458V9.45416C14 9.45416 14 7 11.415 7H2.58408C2.58408 7 0 7 0 9.45416V14.5458C0 14.5458 0 17 2.58408 17H11.415C11.415 17 14 17 14 14.5458ZM10.4126 12.0071L5.50195 14.7451V9.26827L10.4126 12.0071Z' fill='%23000000'/></svg>");
+		background-size: 14px 24px;
+		width: 14px;
+	}
+	.social a.tw{
+		background-image: url("data:image/svg+xml;utf8,<svg width='14' height='24' viewBox='0 0 14 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M8.77069 6.1413C7.5064 6.61754 6.70763 7.84669 6.79859 9.19233L6.82918 9.7114L6.32313 9.64802C4.4825 9.40476 2.87423 8.57819 1.50822 7.19058L0.840108 6.50105L0.668117 7.00984C0.304291 8.14306 0.536644 9.34051 1.29489 10.1457C1.69923 10.5911 1.60828 10.6545 0.910392 10.3889C0.66729 10.3041 0.45561 10.2407 0.434938 10.2724C0.364653 10.347 0.606928 11.3106 0.798764 11.6917C1.06171 12.222 1.59753 12.7402 2.18461 13.0477L2.68074 13.2909L2.09448 13.3012C1.52807 13.3012 1.50822 13.3115 1.56859 13.535C1.77117 14.2237 2.56994 14.9543 3.45966 15.273L4.08643 15.4948L3.54069 15.834C2.732 16.3222 1.78109 16.5972 0.830185 16.6178C0.374576 16.628 0 16.6709 0 16.7026C0 16.8079 1.23453 17.4015 1.95226 17.6345C4.10628 18.3231 6.66629 18.0259 8.58795 16.8507C9.95313 16.0139 11.3183 14.3505 11.9567 12.7402C12.3006 11.8827 12.6446 10.3144 12.6446 9.56322C12.6446 9.07584 12.6752 9.01246 13.2416 8.43C13.5757 8.09081 13.8891 7.72078 13.9494 7.61457C14.0511 7.41328 14.0404 7.41328 13.5244 7.59315C12.6645 7.91093 12.5429 7.86896 12.9679 7.39187C13.2813 7.05267 13.6559 6.43853 13.6559 6.25865C13.6559 6.22696 13.5046 6.28007 13.3317 6.37514C13.1498 6.48135 12.7455 6.63982 12.442 6.73489L11.8963 6.91562L11.4002 6.5653C11.1273 6.37514 10.7428 6.16272 10.5402 6.09933C10.0251 5.95115 9.2354 5.97171 8.77069 6.1413Z' fill='%23000000'/></svg>");
+		background-size: 14px 24px;
+		width: 14px;
+	}
+	.social a.be{
+		background-image: url("data:image/svg+xml;utf8,<svg width='17' height='24' viewBox='0 0 17 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M6.56659 11.64C6.91629 11.48 7.14944 11.28 7.30486 11.08C7.6157 10.72 7.77113 10.2 7.77113 9.6C7.77113 9 7.6157 8.48 7.30486 8.08C6.79973 7.4 5.9449 7.04 4.74037 7H0V17H4.42953C4.93465 17 5.40094 16.96 5.82835 16.88C6.25576 16.8 6.6443 16.64 6.95515 16.36C7.22714 16.16 7.46027 15.88 7.65454 15.56C7.96539 15.08 8.08197 14.56 8.08197 13.96C8.08197 13.4 7.9654 12.88 7.69341 12.48C7.42142 12.12 7.03286 11.84 6.56659 11.64ZM1.94278 8.76H4.07984C4.54611 8.76 4.93467 8.8 5.24551 8.92C5.59521 9.08 5.78948 9.36 5.78948 9.84C5.78948 10.24 5.67291 10.56 5.40092 10.72C5.12893 10.88 4.77923 10.96 4.35181 10.96H1.94278V8.76ZM5.36208 15.12C5.12894 15.24 4.77923 15.28 4.35181 15.28H1.94278V12.6H4.35181C4.77923 12.6 5.09007 12.68 5.32321 12.76C5.75062 12.96 5.94491 13.32 5.94491 13.84C5.98377 14.48 5.78949 14.88 5.36208 15.12Z' fill='%23000000'/><path d='M14.9781 7.41675H10V8.66675H14.9781V7.41675Z' fill='%23000000'/><path d='M15.3964 10.7596C15.0936 10.2945 14.6773 9.90689 14.1852 9.71309C13.6932 9.48053 13.1255 9.36426 12.5199 9.36426C11.498 9.36426 10.6275 9.7131 9.98407 10.372C9.34065 11.0309 9 11.9999 9 13.2402C9 14.5581 9.34065 15.527 10.0976 16.1084C10.8167 16.6898 11.6494 16.9999 12.5956 16.9999C13.7311 16.9999 14.6394 16.6511 15.245 15.9534C15.6613 15.527 15.8884 15.1007 15.9263 14.6743H14.0338C13.9203 14.8681 13.8068 15.0619 13.6554 15.1782C13.3904 15.4108 13.0498 15.4883 12.6335 15.4883C12.2171 15.4883 11.8765 15.4108 11.6116 15.217C11.1574 14.9457 10.8924 14.4418 10.8546 13.7053H16.0398C16.0398 13.0852 16.0398 12.6201 15.9641 12.2712C15.8884 11.6898 15.6992 11.186 15.3964 10.7596ZM10.9303 12.4263C11.006 11.9612 11.1574 11.5736 11.4223 11.3022C11.6873 11.0309 12.0657 10.8759 12.5199 10.8759C12.9741 10.8759 13.3147 10.9922 13.6175 11.2635C13.9203 11.5348 14.0717 11.8836 14.1095 12.3875H10.9303V12.4263Z' fill='%23000000'/></svg>");
+		background-size: 17px 24px;
+		width: 17px;
+	}
+	.social a.pi{
+		background-image: url("data:image/svg+xml;utf8,<svg width='12' height='24' viewBox='0 0 12 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M5.84692 5C1.93679 5 0 7.71635 0 10.0289C0 11.4238 0.475062 12.6352 1.64444 13.1123C1.82716 13.1858 2.00988 13.1123 2.04642 12.9288C2.08297 12.782 2.1926 12.4149 2.22914 12.2681C2.30222 12.0845 2.26569 12.0111 2.11951 11.8276C1.79062 11.4605 1.57136 10.9466 1.57136 10.2492C1.57136 8.23025 3.14272 6.39488 5.62766 6.39488C7.85679 6.39488 9.06273 7.71635 9.06273 9.47831C9.06273 11.7909 8.00297 13.8832 6.43161 13.8832C5.55457 13.8832 4.93334 13.0389 5.11605 12.1947C5.37186 11.1669 5.95655 10.0656 5.95655 9.33148C5.95655 8.67074 5.55457 8.26696 4.75062 8.26696C3.72741 8.26696 3.17927 9.00111 3.17927 10.2124C3.17927 10.9833 3.39853 11.4972 3.39853 11.4972C3.39853 11.4972 2.41185 15.2047 2.33876 15.8654C2.19259 17.2236 2.30223 18.7653 2.30223 18.9121C2.30223 19.0222 2.4484 19.0223 2.48495 18.9488C2.55803 18.8387 3.61778 17.5907 3.98321 16.3059C4.09284 15.9388 4.5679 14.1034 4.5679 14.1034C4.86025 14.6173 5.70074 15.2414 6.57778 15.2414C9.24544 15.2414 10.9995 12.7453 10.9995 9.58843C11.0361 7.20245 8.98964 5 5.84692 5Z' fill='%23000000'/></svg>");
+		background-size: 12px 24px;
+		width: 12px;
+	}
+	.social a.go{
+		background-image: url("data:image/svg+xml;utf8,<svg width='18' height='24' viewBox='0 0 18 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M11.999 11.7879L12 11.787V10.4971H5.98242V13.0769H9.14355C8.68848 14.3881 7.42969 15.3413 5.96387 15.3413C4.12012 15.3413 2.60254 13.8323 2.60254 12C2.60254 10.1677 4.12012 8.65868 5.96387 8.65868C6.72266 8.65868 7.40918 8.91018 7.95215 9.34131L9.86719 7.43713C8.81934 6.53892 7.44531 6 5.96387 6C2.63867 6 0 8.69461 0 12C0 15.3054 2.63867 18 5.96387 18C9.28906 18 12 15.3054 12 12C12 11.9265 11.999 11.8561 11.999 11.7879Z' fill='%23000000'/><path fill-rule='evenodd' clip-rule='evenodd' d='M15 11V9H16V11H18V12H16V14H15V12H13V11H15Z' fill='%23000000'/></svg>");
+		background-size: 18px 24px;
+		width: 18px;
+	}
+	.social a.fl{
+		background-image: url("data:image/svg+xml;utf8,<svg width='16' height='24' viewBox='0 0 16 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M12.03 9C10.0947 9 8.53003 10.5647 8.53003 12.5C8.53003 14.4353 10.0947 16 12.03 16C13.9653 16 15.53 14.4353 15.53 12.5C15.4888 10.5647 13.9241 9 12.03 9Z' fill='%23000000'/><path d='M3.5 9C1.56471 9 0 10.5647 0 12.5C0 14.4353 1.56471 16 3.5 16C5.43529 16 7 14.4353 7 12.5C7 10.5647 5.43529 9 3.5 9Z' fill='%23000000'/></svg>");
+		background-size: 16px 24px;
+		width: 16px;
+	}
+	/**/
+	.social a.s00{
+		background-image: url("data:image/svg+xml;utf8,<svg width='21' height='24' viewBox='0 0 21 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.5418 9.64215C15.5398 9.64215 14.2402 11.2094 13.8132 11.7244C13.8101 11.7282 13.807 11.7319 13.8038 11.7357C13.801 11.7324 13.7983 11.7291 13.7956 11.7257C13.37 11.2104 12.0749 9.64215 10.0567 9.64215C8.72859 9.64215 7.70448 10.3108 7.01051 11.6303C6.4192 10.5695 5.54663 10.032 4.41456 10.032C3.46701 10.032 2.9608 10.2835 2.67713 10.5036C2.73373 10.1509 2.82255 9.6083 2.94283 8.90329H6.78798C6.88307 8.90329 6.96011 8.82631 6.96011 8.7313V7.17199C6.96011 7.07698 6.88307 7 6.78798 7H1.38924C1.30558 7 1.23405 7.06006 1.21966 7.14241L0.306808 12.366C0.298063 12.416 0.311903 12.4674 0.344608 12.5063C0.377382 12.5452 0.425578 12.5677 0.476392 12.5677H2.2238C2.28694 12.5677 2.34498 12.5331 2.37507 12.4777C2.37858 12.4712 2.7371 11.8313 3.68438 11.8313C4.69004 11.8313 5.21621 12.6163 5.21621 13.3918C5.21621 14.2185 4.56108 15.1429 3.68438 15.1429C2.82151 15.1429 2.29162 14.4055 2.29162 13.8769C2.29162 13.7819 2.21458 13.7049 2.11949 13.7049H0.172132C0.0770462 13.7049 0 13.7819 0 13.8769C0 14.2152 0.132404 14.9691 0.628556 15.6487C1.07858 16.2652 1.97401 17 3.68431 17C5.65336 17 6.67031 15.8724 7.03075 15.1819C7.41881 15.8572 8.40974 17 10.0566 17C12.0701 17 13.2775 15.5789 13.7321 15.0439C13.7577 15.0138 13.7847 14.9821 13.809 14.9541C13.8417 14.9879 13.8796 15.0283 13.9153 15.0662C14.4124 15.5951 15.7328 17 17.5417 17C19.7065 17 21 15.1214 21 13.3052C21 12.3981 20.7012 11.5026 20.1802 10.8484C19.5518 10.0593 18.6394 9.64215 17.5418 9.64215ZM17.557 14.7956C16.5969 14.7956 15.5291 13.6926 15.21 13.3372C15.5291 12.9818 16.5969 11.8788 17.557 11.8788C18.8154 11.8788 18.8519 13.3223 18.8519 13.3375C18.8519 13.3521 18.8155 14.7956 17.557 14.7956ZM10.0676 14.7956C8.80908 14.7956 8.77259 13.3521 8.77259 13.3373V13.3369H8.77266C8.77266 13.3223 8.80881 11.8789 10.0676 11.8789C11.0235 11.8789 12.0938 12.9815 12.4142 13.3373C12.0941 13.6927 11.0237 14.7956 10.0676 14.7956Z' fill='%23000000'/></svg>");
+		background-size: 21px 24px;
+		width: 21px;
+	}
+	.social a.al{
+		background-image: url("data:image/svg+xml;utf8,<svg width='16' height='24' viewBox='0 0 16 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M7.68053 4.0063C6.22006 4.06612 4.81501 4.51807 3.59601 5.32013C2.97664 5.72766 2.40735 6.22945 1.9216 6.79602C1.1955 7.64294 0.647522 8.64835 0.329701 9.71678C0.150249 10.3201 0.0477756 10.9096 0.00703824 11.5731C-0.00241947 11.7272 -0.00232296 12.2821 0.00719151 12.436C0.0387664 12.9467 0.105879 13.4044 0.216516 13.8638C0.233813 13.9356 0.249243 14.0001 0.250804 14.0071C0.252365 14.0141 0.2553 14.0199 0.257327 14.0199C0.260205 14.0199 2.37728 9.53848 2.53288 9.20302C2.60125 9.05561 2.6626 8.89478 2.73861 8.66372C2.78481 8.52328 2.88072 8.1976 2.88072 8.18118C2.88072 8.17364 3.04282 8.17267 4.30137 8.17267H5.72202L5.75829 8.31033C5.88371 8.78625 6.03044 9.27147 6.15529 9.62311C6.18633 9.71054 6.8318 11.5064 7.58968 13.614C8.34755 15.7215 8.97161 17.4573 8.97648 17.4713C8.98136 17.4853 8.98607 17.4942 8.98696 17.4912C8.98914 17.4837 9.00146 17.3661 9.02861 17.0939C9.24981 14.8756 9.40368 11.8735 9.45442 8.78577C9.45768 8.5875 9.46188 8.36845 9.46377 8.29898L9.46718 8.17267H10.5501H11.6331L11.6257 8.2082C11.5616 8.51374 11.4914 9.17851 11.4616 9.7622C11.4597 9.7981 11.4543 9.87985 11.4496 9.94386C11.4448 10.0079 11.3991 10.9556 11.3478 12.05C11.2966 13.1443 11.2521 14.0627 11.2488 14.0908C11.228 14.2721 11.2218 15.0954 11.2389 15.4079C11.2567 15.733 11.2654 15.8614 11.2697 15.8653C11.2748 15.87 11.7792 15.8966 12.0262 15.9053C12.3378 15.9163 13.0824 15.9022 13.5817 15.876C14.0938 15.849 14.7173 15.7901 15.0583 15.7363L15.0789 15.7331L15.1728 15.5421C15.3615 15.1584 15.5007 14.8147 15.6216 14.4337C16.2225 12.5415 16.1049 10.5168 15.289 8.70381C15.2261 8.56383 15.0714 8.25612 14.9964 8.12157C14.4668 7.17155 13.7642 6.35044 12.9156 5.68972C12.0651 5.02756 11.0945 4.54585 10.0506 4.26788C9.28984 4.0653 8.46438 3.97419 7.68053 4.0063ZM3.50127 10.8851C3.16036 11.6678 2.87972 12.3128 2.87763 12.3182C2.87402 12.3277 2.92972 12.3282 3.99846 12.3282C4.61701 12.3282 5.12309 12.3268 5.12309 12.3252C5.12309 12.3191 4.12817 9.46968 4.12472 9.46586C4.12273 9.46367 3.84219 10.1023 3.50127 10.8851ZM1.77357 14.9835C1.48856 15.6103 1.24427 16.1455 1.2307 16.1727C1.21714 16.2 1.20604 16.2248 1.20604 16.2279C1.20604 16.2342 1.27314 16.3406 1.3437 16.4462C2.27257 17.8362 3.61248 18.9001 5.17627 19.4894C5.94203 19.778 6.7092 19.9398 7.56416 19.993C7.71798 20.0026 8.2775 20.0026 8.43272 19.993C9.56702 19.9228 10.5892 19.6515 11.5749 19.1591C12.3625 18.7655 13.0731 18.2505 13.6951 17.6224L13.7603 17.5566H10.2478C8.31595 17.5566 6.73533 17.5546 6.73533 17.5523C6.73533 17.5456 6.68669 17.268 6.661 17.128C6.61646 16.8852 6.56526 16.6567 6.52681 16.5291C6.51788 16.4994 6.29378 15.8831 6.02881 15.1595L5.54706 13.8439H3.91942H2.29177L1.77357 14.9835Z' fill='%23000000'/></svg>");
+		background-size: 16px 24px;
+		width: 16px;
+	}
+	.social a img{
+		display: none;
+	}
+	#footer a.portfolioSubscribe:before{
+		background-image: url("data:image/svg+xml;utf8,<svg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M4 4H20C21.1 4 22 4.9 22 6V18C22 19.1 21.1 20 20 20H4C2.9 20 2 19.1 2 18L2.01 6C2.01 4.9 2.9 4 4 4ZM12 13L20 8V6L12 11L4 6V8L12 13Z' fill='%23000000'/></svg>");
+	}
+	header .blogNavButtons a.selectedMonth,
+	.content .blog .header a.selectedMonth{
+		background-color: #000000;
+		color: #FFFFFF;
+	}
+	header .blogNavButtons a.selectedMonth::before,
+	.content .blog .header a.selectedMonth:before {
+		background-image: url("data:image/svg+xml;utf8,<svg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12L19 6.41Z' fill='%23FFFFFF'/></svg>");
+	}
+/* 31 Oct 2020 */
+	.feedbackButton{
+		background-image: url("data:image/svg+xml;utf8,<svg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M18 0H2C0.9 0 0.0100002 0.9 0.0100002 2L0 20L4 16H18C19.1 16 20 15.1 20 14V2C20 0.9 19.1 0 18 0ZM11 12H9V10H11V12ZM11 8H9V4H11V8Z' fill='%23000000'/></svg>");
+		background-size: 20px 20px;
+	}
+
+
+
+
+	.content .blog .header,
+	.blogAnonses > .blog > .title,
+	.blogAnonses .blogItemsList .item,
+	.content .blog .waterfall-container .item {
+		color: #000000;
+	}
+
+	.blogAnonses > .blog > .title a,
+	.blogAnonses .blogItemsList .item a{ /*383*/
+		color: #000000;
+	}
+	.blogAnonses > .blog > .title a:hover,
+	.blogAnonses .blogItemsList .item a:hover,
+	.content .blog .item a:hover,
+	.content .blog .item a:hover .title,
+	.instaWidget .title a:hover,
+	.instaWidget .title a:hover span
+	{ 
+		color: #000000;
+	}
+
+	.blog .tagsCloudContent a,
+	.blog .waterfall-container .item .tags a,
+	.blog .entryContent .tags a{
+		background-color: #000000;
+		color: #FFFFFF;
+	}
+	.blog .tagsCloudContent a:hover,
+	.blog .waterfall-container .item .tags a:hover,
+	.blog .entryContent .tags a:hover{
+		background-color: #d7d7d7;
+		color: #000000;
+	}
+	
+	
+	#footer a,
+	.wrapper .menu ul >li >a,
+	.wrapper .menu ul >li >ul >li >a{
+		color: #000000;
+		opacity:0.7;
+	}
+	.wrapper .menu ul >li.active >a{
+		color: #000000;
+		opacity:1;
+	}
+	#ya_share:hover,
+	.switch_language:hover {
+		border-color: #000000;
+	}
+	.switch_language a:hover {
+		--color: #FFFFFF;
+	}
+	.wrapper .menu ul >li >a:hover,
+	.wrapper .menu ul >li >ul >li >a:hover,
+	.wrapper .menu ul >li >ul >li:not(.folder) >a.active{
+		color: #000000;
+		opacity:1;
+	}
+	.series_caption a.switcher{
+		border-color: #FFFFFF;
+	}
+	.series_caption a.switcher:before,
+	.series_caption a.switcher:after{
+		background: #FFFFFF;
+	}
+
+	.arrnav span {
+		opacity: 0.8;
+	}
+	.arrnav .nav,
+	.arrnav .nav.play {
+		background-position: center center !important;
+		width: 38px;
+		height: 38px;
+		border: 1px transparent solid;
+	}
+	.arrnav .nav:hover{
+		border: 1px #000000 solid;
+	}
+	.arrnav .nav.thumbs{
+		background-image: url("data:image/svg+xml;utf8,<svg width='40' height='40' viewBox='0 0 40 40' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M11 11H15V15H11V11ZM18 11H22V15H18V11ZM29 11H25V15H29V11ZM11 18H15V22H11V18ZM22 18H18V22H22V18ZM25 18H29V22H25V18ZM15 25H11V29H15V25ZM18 25H22V29H18V25ZM29 25H25V29H29V25Z' fill='%23000000'/></svg>");
+	}
+	.arrnav .nav.backward{
+		background-image: url("data:image/svg+xml;utf8,<svg width='40' height='40' viewBox='0 0 40 40' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M21.6567 14L16 19.6569L21.6567 25.3137L23.6567 23.3137L20 19.6569L23.6567 16L21.6567 14Z' fill='%23000000'/></svg>");
+	}
+	.arrnav .nav.play{
+		background-image: url("data:image/svg+xml;utf8,<svg width='40' height='40' viewBox='0 0 40 40' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M18 15H15V25H18V15ZM24 15H21V25H24V15Z' fill='%23000000'/></svg>");
+	}
+	.arrnav .nav.play.pause{
+		background-image: url("data:image/svg+xml;utf8,<svg width='40' height='40' viewBox='0 0 40 40' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M26 20.0001L15 26V14L26 20.0001Z' fill='%23000000'/></svg>");
+	}
+	.arrnav .nav.forward{
+		background-image: url("data:image/svg+xml;utf8,<svg width='40' height='40' viewBox='0 0 40 40' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M16.3433 16L20 19.6569L16.3433 23.3137L18.3433 25.3137L24 19.6569L18.3433 14L16.3433 16Z' fill='%23000000'/></svg>");
+	}
+	.arrnav .nav.info{
+		background-image: url("data:image/svg+xml;utf8,<svg width='40' height='40' viewBox='0 0 40 40' fill='none' xmlns='http://www.w3.org/2000/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M22 13H19V16H22V13ZM22 18H19V28H22V18Z' fill='%23000000'/></svg>");
+	}
+	.arrnav .nav.info.show{
+		border: 1px #000000 solid;
+	}
+	.series_caption{
+		background-color: rgba(76.5, 76.5, 76.5);
+		color: #FFFFFF;
+	}
+	.series_caption a{
+		color: #FFFFFF;
+	}
+	
+	.slidetabs div.item > .caption .info{
+		background-color: rgba(76.5, 76.5, 76.5, 0.9);
+		color: #FFFFFF;
+	}
+	.slidetabs div.item > .caption .info a{
+		color: #FFFFFF;
+	}
+
+</style>
+</head>
+<body class='computer  hideTitles index'>
+<a class='scrolltotop' href='#'></a>
+<div id='all'>
+	<div class='wrapper'>
+		<div class='menu'>
+			<div class=title>Pavel Kosenko</div>
+			<div class='ScrollPane'>
+				<ul>
+		<li class='folder  '>
+		<a href=https://pavelkosenko.photographer.ru/photo>Photo</a>
+		<ul class=' '>
+			<li class='gallery '>
+				<a class='' href=https://pavelkosenko.photographer.ru?item=1983>Motherland (2016 – н.в.)</a>
+				
+			</li>
+
+			<li class='gallery '>
+				<a class='' href=https://pavelkosenko.photographer.ru/bad-photos>Bad Photos #1 (2015-2017)</a>
+				
+			</li>
+
+			<li class='gallery '>
+				<a class='' href=https://pavelkosenko.photographer.ru/neproyav>Undev. (1984-1989, 2016)</a>
+				
+			</li>
+
+			<li class='gallery '>
+				<a class='' href=https://pavelkosenko.photographer.ru?item=1987>From My Past Life (2009 – 2015)</a>
+				
+			</li></ul>
+	</li><li class='folder  '>
+		<a href=https://pavelkosenko.photographer.ru?item=1979>Books</a>
+		<ul class=' '>
+			<li class='page '>
+				<a class='' href=https://pavelkosenko.photographer.ru/bad-photos-postcards>Bad Photos</a>
+				
+			</li>
+
+			<li class='page '>
+				<a class='' href=https://pavelkosenko.photographer.ru/undev>Undev. (2016)</a>
+				
+			</li>
+
+			<li class='page '>
+				<a class='' href=https://pavelkosenko.photographer.ru?item=1973>MISTAKES (2015)</a>
+				
+			</li>
+
+			<li class='page '>
+				<a class='' href=https://pavelkosenko.photographer.ru/lifilike>LIFELIKE (2013)</a>
+				
+			</li></ul>
+	</li><li class='page  '>
+		<a href=https://pavelkosenko.photographer.ru?item=1982>About</a>
+		
+	</li><li class='page  '>
+		<a href=https://pavelkosenko.photographer.ru/contact>Contacts</a>
+		
+	</li></ul>
+			</div>
+			
+		</div>
+		<div class='content'>
+			<div class='header_buttons'>
+				
+				<!-- yashare_block: -->
+				<div id='ya_share' class='ya-share2'></div>
+				
+<div class=switch_language>
+	<a href=https://pavelkosenko.photographer.ru?lang=rus title='по-русски'>RUS</a>&nbsp;<span class=l1>ENG</span>
+</div>
+			</div>
+			
+
+<div class='slidetabs'>
+	<div class='navigation'>
+		<div class='lupa'></div>
+		
+	</div>
+	<div id='cycle-slideshow' 
+		data-cycle-speed='' 
+		data-cycle-manual-speed='' 		
+		data-cycle-timeout: '3000'
+>
+		
+	<div rel=1 id=item53325 class='item  photo loading' data-src='/static/upload/portfolio/pics/big/53/53325.jpg'>
+		<picture data-sources="&lt;source media='(max-width: 900px)' sizes='100vw' srcset='/static/upload/portfolio/pics/pictures/53/53325.jpg'&gt;
+	&lt;source media='(max-width: 1365px)' sizes='100vw' srcset='/static/upload/portfolio/pics/pictures/53/53325.jpg'&gt;
+	&lt;source media='(max-width: 1920px)' sizes='100vw' srcset='/static/upload/portfolio/pics/big/53/53325.jpg'&gt;
+	&lt;source media='(min-width: 1920px)' sizes='100vw' srcset='/static/upload/portfolio/pics/big/53/53325.jpg'&gt;" >
+			<img data-src='/static/upload/portfolio/pics/pictures/53/53325.jpg' src='/static/upload/portfolio/pics/300/53/53325.jpg' style='max-width: 1500px; margin: auto;' alt='' title='Pavel Kosenko. Pavel Kosenko. Без названия'>
+		</picture>
+	</div>
+	</div>
+</div>
+<div class='loading'><div class='percent'></div></div>
+<div class='captionInfoSwitcher'></div>
+
+<p></p> 
+			<a class=closeFullscreen href=#></a>
+		</div>
+	</div>
+</div>
+	
+<div id='footer'>
+	<div class=right>Site created by <a href='https://www.photographer.ru/portfolio/'> Portfolio.photographer.ru </a></div>
+	<div class=left>
+		<a href=https://pavelkosenko.photographer.ru>&copy; Pavel Kosenko</a>
+		<iframe class=iframer src='https://www.photographer.ru/portfolio/iframer.htm?login=pavelkosenko'></iframe>
+	</div>
+	<div class=center></div>
+</div>
+
+
+<div id='dbgdiv'></div>
+<!-- Common overlay element -->
+<div class='simple_overlay content' id='common_overlay' style='display:none;'>
+	<div id=common_overlay_content><br /><br /></div>
+</div>
+
+
+
+	<script type='text/javascript' src='/static/design/js/jquery11.1.min.js'></script>
+<!-- jquerytools doesn't seem to be needed here-->
+	<script type='text/javascript' src='/static/design/js/patched/scrollable.js'></script>
+
+
+<script type=text/javascript>
+var htmlrootpath='';
+var language='';
+
+
+var user_agent='browser';
+
+
+</script>
+<script type='text/javascript' src='/static/design/js/jquery.mousewheel.js'></script>
+<script type='text/javascript' src='/static/design/js/portfolio/common.js?rnd=55'></script>
+<script type='text/javascript' src='/static/design/js/jquery.jscrollpane.min.js'></script>
+<script type='text/javascript' src='/static/design/js/portfolio/computer.js?rnd=55'></script>
+
+
+<script type='text/javascript'>
+		var htmlrootpath='';
+		
+//			var ServerName = window.location.hostname.replace('.ru', '').replace('.com', '').split('.').pop();
+//			if(ServerName!='photographer') window.location='htt' + 'p://www.phot' + 'ographer.ru';
+		
+	</script>
+<link REL=STYLESHEET TYPE=text/css href='https://i.photographer.ru/index.css?rnd=1' /><script>
+	var user_pro=parseInt('');
+</script>
+
+<script type='text/javascript' src='/static/design/js/nonstop/jquery.touchwipe.1.1.1.js?rnd=4'></script>
+<script type='text/javascript' src='/static/design/js/jquery.cycle2.min.js'></script>
+<script type=text/javascript>
+	var currentPic;
+	var thisBaseUrl = 'https://pavelkosenko.photographer.ru';
+	
+var ratios = {};var widths = {};var heights = {}; var picIds = {}; var missedPics = {}; 
+	
+widths['item53325'] = 1100;
+heights['item53325'] = 1100;
+ratios['item53325'] = 1100/1100;
+picIds[0] = 53325;
+
+</script>
+<style>
+	body.hidemenu,
+	body.hidemenu .wrapper .content,
+	body.hidemenu .wrapper .slidetabs {
+		background-color: ;
+	}
+</style>
+
+	
+
+	<script type='text/javascript'>
+		$(function() {
+			var ajustSlideshowSized=0;
+
+			function ajustSlideshowSize(){
+				menuHeight=$(window).height()-90 - $('.menu div.title').height() - 40 - 40;
+				$('.menu .ScrollPane').css({ height: menuHeight});
+				jScrollPaneApi.reinitialise();
+			};	
+			$('.menu .ScrollPane').jScrollPane({
+					showArrows: true
+				}
+			);
+			var jScrollPaneApi = $('.menu .ScrollPane').data('jsp');
+			
+		
+			
+
+			$('.feedbackButton').attr('data-url', 'https://pavelkosenko.photographer.ru#1').attr('data-item', '1970').attr('data-pic', '53325');
+		
+
+	var containerWidth;
+	var containerHeight;
+	var initialIndex=0;
+
+	var picsnum=1;
+	var picsloaded = 0;
+	var playThisVideo;
+
+	if(window.location.hash) {
+		var hash = parseInt(window.location.hash.substring(1)); //Puts hash in variable, and removes the # character
+		if(hash>0){
+			$('.currentpicnum').html(hash);
+			currentPic = picIds[hash-1];
+	
+			var ogurl = AddURLPar('https://pavelkosenko.photographer.ru', 'play', '1970');
+			ogurl = AddURLPar(ogurl, 'item', '');
+			ogurl = AddURLPar(ogurl, 'pic', currentPic);
+	
+			$("meta[property='og\:url']").attr('content', ogurl);
+			$('.feedbackButton').attr('data-url', ogurl);
+
+			var ogimage='https://pavelkosenko.photographer.ru' + $('#item'+currentPic).attr('data-src');
+			YaShare.updateContent({url: ogurl, image: ogimage}) //, description: 'kuku'
+
+			var startingSlide = hash-1;
+			if( $('.item[rel='+hash+']').is('.video')){
+				playThisVideo=hash;
+			}
+		} else {
+			var startingSlide = 0;
+		}
+	} else {
+		var startingSlide = 0;
+	}
+
+	revealPictures(startingSlide);
+
+	function revealPictures(curSlide){
+		var slides = {};
+		for(i=-2; i<=2; i++){
+			s=curSlide+i+1;
+			if(s<1) s=picsnum+i+1;
+			if(s>(picsnum)) s=s-(picsnum)+1;
+			slides[i+2]=s;
+		}
+		revealPic(slides[2]); revealPic(slides[3]); revealPic(slides[1]); revealPic(slides[4]); revealPic(slides[0]);
+	}
+
+	$('.item picture img').on('load', function(){
+		if($(this).parents('.item').is('.reveal')){
+			if($(this)[0].complete){
+				$(this).parents('.item').removeClass('loading').removeClass('reveal');
+				ajustCaption($(this).parents('.item'));
+				//console.log($('.item.loading').length)
+			}
+		}
+	});
+
+	function revealPic(slide){
+		var tmpImgLoaded = function(item, img, src) {
+			img.attr('src', src).trigger('load');
+		}
+		var item = $('.slidetabs .item[rel='+slide+']'); 
+		if(item.is('.photo.loading') ){
+			item.addClass('reveal');
+			var img = item.find('img');
+			var picture = item.find('picture');
+			var src=img.attr('data-src');
+			var sources=picture.attr('data-sources');
+			if(src!=undefined){
+				//console.log('reveal src=', src, ', sources=', sources, img);
+	
+			    var tmpImg = new Image();
+		        tmpImg.onload = tmpImgLoaded(item, img, src);
+				tmpImg.src = src;
+	
+	
+				
+				img.removeAttr('data-src');
+				$( sources ).prependTo( picture );
+				picture.removeAttr('data-sources');
+			}
+		}
+	}
+
+
+
+	function ajustSlideShowNavs(){
+		setTimeout(function() { 
+			var currentItemCaption=$('#cycle-slideshow .cycle-slide-active .caption' );
+			var slidetabsHeight = $('.slidetabs').outerHeight();
+			var height =slidetabsHeight;
+			if(currentItemCaption.length){
+				var h = currentItemCaption.outerHeight();
+				var b = parseFloat(currentItemCaption.css('bottom'));
+				bottom = h + b;
+				height = slidetabsHeight - h -b;
+			}  
+			$('.slidetabs .navigation').animate({height: height})
+		}, 250);
+	}
+$('#cycle-slideshow .cycle-slide-active .caption' ).outerHeight();
+
+	$('#cycle-slideshow').on('cycle-post-initialize', function( event, opts ) {
+		var currentItem=$('#cycle-slideshow .cycle-slide-active' );
+		if(currentItem.is('.video')){
+			$('.lupa').hide();
+		} else {
+			$('.lupa').show();
+		}
+		ajustSlideShowNavs()
+		if(playThisVideo){
+			setTimeout(function() { 
+				$('.slidetabs div.item.cycle-slide-active .playButton').click();
+			}, 1000);
+		}
+	});
+	$('#cycle-slideshow').cycle({
+		paused: true,
+		slides: '>div.item',
+		log: false,
+		pagerTemplate: '',
+    	fx: 'fade',
+    	timeout: '3000',
+    	prev: '.backward',
+    	next: '.forward',
+    	startingSlide: startingSlide
+	});
+
+
+
+
+
+
+	function getRenderedSize(cWidth, cHeight, width, height){
+	  var oRatio = width / height,
+	      cRatio = cWidth / cHeight;
+	  return function() {
+	    if (oRatio > cRatio) {
+	      this.width = cWidth;
+	      this.height = cWidth / oRatio;
+	    } else {
+	      this.width = cHeight * oRatio;
+	      this.height = cHeight;
+	    }      
+	    return this;
+	  }.call({});
+	}
+	function getImgSizeInfo(obj) {
+		var img=obj.get(0);
+		return getRenderedSize(
+	                         img.width,
+	                         img.height,
+	                         img.naturalWidth,
+	                         img.naturalHeight);
+	}
+
+
+	function ajustSlideshowSize(){
+		console.log('ajustSlideshowSize...' );
+		if($('body').is('.hidemenu')){
+			containerWidth=$(window).width();
+			containerHeight=$(window).height();
+		} else {
+			containerWidth=$('.wrapper .content').width()-125;
+			containerHeight=$(window).height()-80;
+		}
+
+		menuHeight=$(window).height()-90 - $('.menu div.title').height() - 40 - 40;
+		$('.slidetabs, .slidetabs>div>div.item').css({width: containerWidth, height: containerHeight});
+		$('.slidetabs .navigation > div').css({height: containerHeight});
+		$('.menu .ScrollPane').css({ height: menuHeight});
+		
+		$('.slidetabsNavigation').css({ bottom: 'auto', top: $('.menu').height()+44, position: 'absolute', 'z-index': 1000 });
+		
+		$('div.slidetabs  div.item').each(function(){
+			ajustCaption($(this));
+		})
+		ajustSlideshowSized=true;
+		jScrollPaneApi.reinitialise();
+	}
+	
+	function ajustCaption(item){
+		var itemId=item.attr('id');
+		//var ratio=ratios[itemId];
+
+
+		if(item.is('.photo')){
+			var getImgSizes = getImgSizeInfo(item.find('picture img'));
+			var cBottom=(containerHeight-getImgSizes.height)/2;
+			var cLeft  =(containerWidth-getImgSizes.width)/2;
+			item.find('.info').css({width: getImgSizes.width});
+		} else {
+			var playerWidth = item.find('.player').outerWidth();
+			var playerHeight = item.find('.player').outerHeight();
+			var browseTop=(containerHeight-playerHeight)/2;
+			
+			var cBottom=(containerHeight-playerHeight)/2;
+			var cLeft  =(containerWidth-playerWidth)/2;
+		}
+		if(cBottom<0) cBottom=0;
+		//console.log('cBottom=' , cBottom, ', cLeft=' , cLeft);
+		item.find('.caption').css({bottom: cBottom+'px', left: cLeft+'px'});
+	}
+
+	$(window).resize(function () {
+	    waitForFinalEvent(function(){
+			ajustSlideshowSize();
+	    }, 200, 'resizerecalc');
+	});
+
+
+	$( '#cycle-slideshow' ).on( 'cycle-after', function( event, opts ) {
+		$('.currentpicnum').html(opts.slideNum);
+		currentPic = picIds[opts.slideNum-1];
+		//console.log('currentPic=', currentPic);
+		revealPictures(opts.slideNum-1);
+		
+		var currentItem=$('#cycle-slideshow .cycle-slide-active' );
+		if(currentItem.is('.video')){
+			$('.lupa').hide();
+		} else {
+			$('.lupa').show();
+		}
+		$('.slidetabs .item').removeClass('playing');
+		$('.slidetabs').removeClass('playingVideo');
+
+		$('.slidetabs .item .player iframe').remove();	
+
+		var ogurl = AddURLPar('https://pavelkosenko.photographer.ru', 'play', '1970');
+		ogurl = AddURLPar(ogurl, 'item', '');
+		ogurl = AddURLPar(ogurl, 'pic', currentPic);
+		$("meta[property='og\:url']").attr('content', ogurl);
+		var ogimage='https://pavelkosenko.photographer.ru' + $('#item'+currentPic).attr('data-src');
+		//	console.log('update ogurl=' , ogurl, ', update ogimage=',ogimage);
+
+		YaShare.updateContent({url: ogurl, image: ogimage}) //, description: 'kuku'
+
+		var currentItemTitle=$('#item'+currentPic+' .caption .name').text();
+		if(currentItemTitle!=''){
+			$('.nav.info.show, .captionInfoSwitcher').show();
+		}else{
+			$('.nav.info.show, .captionInfoSwitcher').hide();
+		}
+
+		var currentTitle = 'Pavel Kosenko. Portfolio. ' + $('#item'+currentPic+' .caption .name').text();
+		$("meta[property='og\:title']").attr('content', currentTitle);
+		$('title').text(currentTitle);
+		YaShare.updateContent({description: currentTitle});
+
+		var currentDescription = $('#item'+currentPic+' .caption .description').text() + ' ';
+		$('meta[name=Description]').attr('content', currentDescription);
+
+		//$('.feedbackButton').attr('data-url', 'https://pavelkosenko.photographer.ru#'+opts.slideNum).attr('data-item', '1970').attr('data-pic', currentPic);
+		$('.feedbackButton').attr('data-url', ogurl).attr('data-item', '1970').attr('data-pic', currentPic);
+		ajustSlideShowNavs();
+	});
+
+	$('.arrnav .nav.info, .captionInfoSwitcher').click(function(){
+		$('.slidetabs .caption .info').toggleClass('show'); 
+		$('.lupa').toggleClass('hidden'); //.browse, 
+		$(this).toggleClass('show'); 
+		return false; 
+	})
+	$('.arrnav .nav.info, .captionInfoSwitcher').hover(
+		function(){
+			$('body').addClass('showCaptionInfo'); 
+		},
+		function(){
+			$('body').removeClass('showCaptionInfo'); 
+		}
+	)
+	$('.slidetabs .caption .info .close').click(function(){
+		$('.slidetabs  .caption .info').removeClass('show'); 
+		$('.lupa').toggleClass('hidden'); 
+		$('.arrnav .nav.info').removeClass('show'); 
+		return false; 
+	})
+
+	
+	function stopShow(){
+		$('#cycle-slideshow').cycle('pause');
+		$('.arrnav .nav.play').addClass('pause');
+	}
+	
+	$('.arrnav .nav.play').click(function(){
+		if($(this).is('.pause')){
+			$('#cycle-slideshow').cycle('resume');
+			$(this).removeClass('pause')
+		} else {
+			stopShow();
+		}
+		return false;
+	})
+
+	$( 'body' ).keyup(function(e) {
+		//dbg(e);
+	    key = e.which;
+	    if (key == 37){ //left arrow key
+			stopShow();
+	        $('.arrnav .backward').click();
+	    }
+	    if (key == 39){ //right arrow key
+			stopShow();
+	        $('.arrnav .forward').click();
+	    }
+	    if (key == 32){ //space key
+			if($('.arrnav .nav.play').is('.pause')){
+				$('div.tabs').data('slideshow').play()
+				$('.arrnav .nav.play').removeClass('pause')
+			} else {
+				stopShow();
+			}
+	    }
+
+	});
+	$('.slidetabs .browse, .slidetabs .lupa').hover(
+		function() {
+			$('.slidetabs').addClass('hover');
+		}, function() {
+			$('.slidetabs').removeClass('hover');
+		}	
+	);
+
+	//http://stackoverflow.com/questions/3877027/jquery-callback-on-image-load-even-when-the-image-is-cached
+
+
+
+function toggleFullScreen(elem) {
+    // ## The below if statement seems to work better ## if ((document.fullScreenElement && document.fullScreenElement !== null) || (document.msfullscreenElement && document.msfullscreenElement !== null) || (!document.mozFullScreen && !document.webkitIsFullScreen)) {
+    if ((document.fullScreenElement !== undefined && document.fullScreenElement === null) || (document.msFullscreenElement !== undefined && document.msFullscreenElement === null) || (document.mozFullScreen !== undefined && !document.mozFullScreen) || (document.webkitIsFullScreen !== undefined && !document.webkitIsFullScreen)) {
+        if (elem.requestFullScreen) {
+            elem.requestFullScreen();
+        } else if (elem.mozRequestFullScreen) {
+            elem.mozRequestFullScreen();
+        } else if (elem.webkitRequestFullScreen) {
+            elem.webkitRequestFullScreen(Element.ALLOW_KEYBOARD_INPUT);
+        } else if (elem.msRequestFullscreen) {
+            elem.msRequestFullscreen();
+        }
+    } else {
+        if (document.cancelFullScreen) {
+            document.cancelFullScreen();
+        } else if (document.mozCancelFullScreen) {
+            document.mozCancelFullScreen();
+        } else if (document.webkitCancelFullScreen) {
+            document.webkitCancelFullScreen();
+        } else if (document.msExitFullscreen) {
+            document.msExitFullscreen();
+        }
+    }
+}
+
+$('.slidetabs > .navigation > div.lupa, .closeFullscreen').click(function(e){
+	$('body').toggleClass('hidemenu');
+	//останавливать слайдшоу при переходе в фулскрин
+	stopShow();
+	
+	ajustSlideshowSize();
+	return false;
+})
+
+
+
+
+$('.slidetabs div.item .playButton').click(function(){
+	$(this).parent().addClass('playing');
+	$('.slidetabs').addClass('playingVideo');
+	var player=$(this).siblings('.player');
+	$(player.attr('data-html')).attr('id', 'video').prependTo( player );
+	if(player.is('.youtube')){
+		if(player.is('.controls')){
+			$('#video')[0].src = addParameterToURL($('#video')[0].src, 'autoplay=1&rel=0&showinfo=0');
+		} else {
+			$('#video')[0].src = addParameterToURL($('#video')[0].src, 'autoplay=1&rel=0&controls=0&showinfo=0');
+		}
+	} else {
+		$('#video')[0].src = addParameterToURL($('#video')[0].src, 'autoplay=1');
+	}
+	return false;
+})
+$('.slidetabs > div.lupa').click(function(){
+	$('body').toggleClass('hidemenu');
+	//останавливать слайдшоу при переходе в фулскрин
+	stopShow();
+	ajustSlideshowSize();
+	return false;
+})
+
+
+
+	
+	
+			$('li.folder>a.active').parents('ul > .folder > ul').addClass('active');
+			
+		
+			if(!ajustSlideshowSized) ajustSlideshowSize();
+
+		});
+	</script>
+<!-- yashareScript: -->
+<script src='https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js'></script>
+<script src='https://yastatic.net/share2/share.js'></script>
+
+<script type='text/javascript'>
+	var YaShare = Ya.share2('ya_share', {
+		theme: {
+			services: 'facebook,whatsapp,twitter,vkontakte,telegram,viber',
+			lang: 'ru',
+			size: 'm',
+			shape: 'round',
+			moreButtonType: 'short',
+			curtain: true,
+			limit: 0,
+			bare: false,
+  			forceCurtain: true
+		}			
+	});
+</script>
+
+<script type='text/javascript' src='/static/design/js/portfolio/computerDomReady.js?rnd=55'></script>
+
+
+
+<link REL=STYLESHEET TYPE=text/css href='/static/design/css/portfolio/jquery.jscrollpane.css' />
+<link REL=STYLESHEET TYPE=text/css href='/static/design/overlay-basic.css' />
+
+
+
+<style>
+.b-share-popup__tail{
+	left: 74px !important;
+}
+</style>
+</body>
+</html>
